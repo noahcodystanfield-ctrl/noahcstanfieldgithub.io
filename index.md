@@ -4,6 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+# Home Netwwork Project 
+
+**Noah Stanfield** Cybersecurity Student
+
+The purpose of this home network project is to show that I have the fundamental knowledge to setup a secure home network. In the documentation I will walk through the setup and configuration. Why I choose devices and the protocols that I fell are neccessary for a small network. Some essintal protocols for a home network is DNS and DHCP. For a home network having the network devices as statically routed may not be a huge concern, but it will still make life easier. 
+
+Anyways heres a link to lego to make sure I know how links work [Lego Link](https://www.lego.com/en-us?ef_id=Cj0KCQjws83OBhD4ARIsACblj1-iYXD4Xjh0XxUOlKc_fMv0m7FuL3ufB4Vzx7NKbHprv5h2r8IU2joaAgVwEALw_wcB:G:s&s_kwcid=AL!790!3!674864373995!e!!g!!lego!20580376225!152515605014&cmp=KAC-INI-GOOGUS-GO-US_GL-EN-RE-PS-BUY-CREATE-MB_ALWAYS_ON-SHOP-BC-MM-RN-CIDNA00000-MB-CORE&gad_source=1&gad_campaignid=20580376225&gbraid=0AAAAADESMXI9sgFgPQheOs6S9i7YLVfC_&gclid=Cj0KCQjws83OBhD4ARIsACblj1-iYXD4Xjh0XxUOlKc_fMv0m7FuL3ufB4Vzx7NKbHprv5h2r8IU2joaAgVwEALw_wcB
+). 
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
