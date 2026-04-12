@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 # DHCP Documentation
-<a href="files/dhcp.html">View Network Audit Project</a>
+[DHCP Documentation](dhcp.html) 
 
 **Noah Stanfield** Cybersecurity Student
 
