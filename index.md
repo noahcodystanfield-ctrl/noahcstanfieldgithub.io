@@ -4,8 +4,16 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-# DHCP Documentation
+#_System Administration and Management_ Documentation
+
+This series of documentation are meant to be a report of my progress setting up critical functions for a server and connected workstation, while also being a guide for tech novices. The server and workstation used in this series are meant to simulate a server and an end user workstation for the mock company Lopes Manufacturing. Lopes Manufacturing's mission is to design, manufacture, assemble, and install high quality helicopter parts to ensure that U.S. military equipment performs flawlessly and allows personnel to safely execute missions in extreme environments and conditions.
+
+## DHCP Documentation
+
 [DHCP Documentation](dhcp.html) 
+
+The linked paper documents on the DHCP setup/configuration for my own server and workstation. The instructions for the screenshots are meant to be "instructions for a novice". The most important part of the document is the LAN Segement setup at the start of the document, and the deletion of the DHCP scope from the server after the assignment requirments were met and the documentation was collected. This document was prepared as an assignment for Grand Canyon University
+
 
 **Noah Stanfield** Cybersecurity Student
 
