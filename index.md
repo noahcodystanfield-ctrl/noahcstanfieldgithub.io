@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-#_System Administration and Management_ Documentation
+# _System Administration and Management_ Documentation
 
 This series of documentation are meant to be a report of my progress setting up critical functions for a server and connected workstation, while also being a guide for tech novices. The server and workstation used in this series are meant to simulate a server and an end user workstation for the mock company Lopes Manufacturing. Lopes Manufacturing's mission is to design, manufacture, assemble, and install high quality helicopter parts to ensure that U.S. military equipment performs flawlessly and allows personnel to safely execute missions in extreme environments and conditions.
 
