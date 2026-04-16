@@ -10,8 +10,15 @@ This series of documentation are meant to be a report of my progress setting up 
 
 > [DHCP Documentation](dhcp.html)
 >
->  [Audits and Honeypot Documentation](audithoneypot.html)
-> 
+> [Audits and Honeypot Documentation](audithoneypot.html)
+>
+> [Group Policies](groupolicy.html)
+>
+> [Triplets](triplets.html) A three part report on new user creation automation, shared home drives automation, and file/folder permissions.
+>
+> [Directory Services](directoryservices.html)
+>
+> [Windows Virtualization](windowsvirtualization.html) 
 
 The linked paper documents on the DHCP setup/configuration for my own server and workstation. The instructions for the screenshots are meant to be "instructions for a novice". The most important part of the document is the LAN Segement setup at the start of the document, and the deletion of the DHCP scope from the server after the assignment requirments were met and the documentation was collected. This document was prepared as an assignment for Grand Canyon University
 
